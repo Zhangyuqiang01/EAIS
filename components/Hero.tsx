@@ -20,13 +20,14 @@ const Hero = () => {
         </p>
         <CustomButton 
           title="Get a Demo"
-          containerStyles="bg-primary-green text-blue rounded-full mt-10 mr-8"  
+          containerStyles="EAIS-green text-white rounded-full mt-10 mr-8"  
           handleClick={() => handleScroll()}  
         />
         <CustomButton
           title="Schedule a meeting"
           btnType="button"
-          containerStyles="text-primary-green bg-white rounded-full min-w-[130px]"
+          containerStyles=" bg-white text- rounded-full min-w-[130px]"
+          textStyles="text-[#1bb97a]"
         />
       </div>
       <div className='hero_image-container'>

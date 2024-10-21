@@ -9,7 +9,7 @@ module.exports = {
     extend: {
       colors: {
         "black-100": "#2b2c35",   
-        "primary-green": "#00FF00",  
+        "EAIS-green": '#1bb97a',  
       },
       fontFamily: {
         roboto: ['"Roboto"', 'sans-serif'], 

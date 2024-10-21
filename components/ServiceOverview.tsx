@@ -17,16 +17,16 @@ const ServiceOverview = () => {
           <div className='font-semibold text-black-100 text-2xl mt-10'>
           This is EAIS with an AI-driven solution designed <br />to revolutionize customer service and promotion <br />automation, aiming to make exceptional customer service.
           </div>
-          <div className='mt-5'>
+          <div className='mt-20'>
             <CustomButton
               title="Schedule a meeting"
               btnType="button"
-              containerStyles="text-primary-green bg-white rounded-full min-w-[130px]"
+              containerStyles="bg-EAIS-green rounded-none min-w-[130px] text-white mr-10"
             />
             <CustomButton
               title="Get a Demo"
               btnType="button"
-              containerStyles="text-primary-green bg-white rounded-full min-w-[130px]"
+              containerStyles="text-EAIS-green bg-white rounded-none min-w-[130px] border border-EAIS-green"
             />
           </div>
         </div>
@@ -36,7 +36,7 @@ const ServiceOverview = () => {
           width={750}
           height={750}/>
       </div>
-    <div className="flex flex-wrap justify-center gap-8 p-6 mt-10 mb-40">
+    <div className="flex flex-wrap justify-center gap-8 p-6 mt-40 mb-40">
       {card2Data.map((card) => (
         <Card
           key={card.id}

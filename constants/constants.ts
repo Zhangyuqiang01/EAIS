@@ -85,3 +85,39 @@ export const uniCard: { id: string; title: string;  imageSrc: string }[] = [
   },
 ];
 
+export const footerLinks = [
+  {
+    title: "Services",
+    links: [
+      { title: "Influencer Marketing AI Automation", url: "/" },
+      { title: "FAI Customer Service Chatboteatured", url: "/" },
+      { title: "Employee Onboarding Automation", url: "/" },
+      { title: "AI Email Marketing", url: "/" },
+      { title: "AI data analysis", url: "/" },
+    ],
+  },
+  {
+    title: "Resources",
+    links: [
+      { title: "Documentation", url: "/" },
+      { title: "Get a Demo", url: "/" },
+      { title: "Schedule a Meeting", url: "/" },
+    ],
+  },
+  {
+    title: "Legal",
+    links: [
+      { title: "Privacy Policy", url: "/" },
+      { title: "Terms", url: "/" },
+      { title: "Security", url: "/" },
+      { title: "Accessibility", url: "/" },
+    ],
+  },
+  {
+    title: "Other",
+    links: [
+      { title: "Pricing", url: "/" },
+      { title: "Careers", url: "/" },
+    ],
+  },
+];

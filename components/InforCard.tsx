@@ -16,7 +16,7 @@ const InforCard = () => {
         ))}
       </div>
       <div className='text-center text-5xl font-black mt-10 mb-32'>
-        We've helped 350+ businesses <br />save time, money and resources
+        We've helped <span className='text-EAIS-green'>350+</span> businesses <br /> save time, money and resources
       </div>
     </div>
     
