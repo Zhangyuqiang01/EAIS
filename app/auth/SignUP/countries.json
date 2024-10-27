@@ -1,0 +1,88 @@
+[
+    {
+        "name": "United States",
+        "code": "+1",
+        "flag": "https://flagcdn.com/us.svg"
+    },
+    {
+        "name": "Canada",
+        "code": "+1",
+        "flag": "https://flagcdn.com/ca.svg"
+    },
+    {
+        "name": "United Kingdom",
+        "code": "+44",
+        "flag": "https://flagcdn.com/gb.svg"
+    },
+    {
+        "name": "Australia",
+        "code": "+61",
+        "flag": "https://flagcdn.com/au.svg"
+    },
+    {
+        "name": "Germany",
+        "code": "+49",
+        "flag": "https://flagcdn.com/de.svg"
+    },
+    {
+        "name": "France",
+        "code": "+33",
+        "flag": "https://flagcdn.com/fr.svg"
+    },
+    {
+        "name": "India",
+        "code": "+91",
+        "flag": "https://flagcdn.com/in.svg"
+    },
+    {
+        "name": "China",
+        "code": "+86",
+        "flag": "https://flagcdn.com/cn.svg"
+    },
+    {
+        "name": "Japan",
+        "code": "+81",
+        "flag": "https://flagcdn.com/jp.svg"
+    },
+    {
+        "name": "Brazil",
+        "code": "+55",
+        "flag": "https://flagcdn.com/br.svg"
+    },
+    {
+        "name": "South Africa",
+        "code": "+27",
+        "flag": "https://flagcdn.com/za.svg"
+    },
+    {
+        "name": "Russia",
+        "code": "+7",
+        "flag": "https://flagcdn.com/ru.svg"
+    },
+    {
+        "name": "Mexico",
+        "code": "+52",
+        "flag": "https://flagcdn.com/mx.svg"
+    },
+    {
+        "name": "Italy",
+        "code": "+39",
+        "flag": "https://flagcdn.com/it.svg"
+    },
+    {
+        "name": "Spain",
+        "code": "+34",
+        "flag": "https://flagcdn.com/es.svg"
+    },
+    {
+        "name": "Argentina",
+        "code": "+54",
+        "flag": "https://flagcdn.com/ar.svg"
+    },
+    {
+        "name": "New Zealand",
+        "code": "+64",
+        "flag": "https://flagcdn.com/nz.svg"
+    }
+  ]
+  
